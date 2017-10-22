@@ -1,6 +1,6 @@
 # Handy
 
-![alt text](https://github.com/arjunkhare/Handy/blob/master/Images/a.jpg)
+![alt text](https://github.com/arjunkhare/Handy/blob/master/Images/IMG_20171022_071920.jpg "Picture of hand")
 
 ## Meet Handy
 Handy is a set of robotic hands that can converse in sign language. His primary function is to act as a translator: Handy can take speech as input, translate it into sign language, and display the sign language with a set of robotic hands.
